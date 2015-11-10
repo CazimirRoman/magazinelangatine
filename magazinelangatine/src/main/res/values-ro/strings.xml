@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Magazoo - Magazine lângă tine</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_gas_mag">GasMag</string>
+    <string name="title_activity_pagina_harta">PaginaHarta</string>
+
+    <color name="bg_color">#ffffff</color>
+
+    <string-array name="tipuri_mag">
+        <item>...</item>
+        <item>de_cartier</item>
+        <item>supermarket</item>
+        <item>hipermarket</item>
+        <item>piata</item>
+        <item>benzinarie</item>
+    </string-array>
+
+    <string name="de_cartier">de cartier</string>
+    <string name="piata">piata</string>
+    <string name="benzinarie">benzinarie</string>
+    <string name="supermarket">supermarket</string>
+    <string name="toate">Toate</string>
+    <string name="nonstop">nonstop</string>
+    <string name="please_login">Te rog sa te loghezi ca sa postezi magazine</string>
+    <string name="app_id">1623197661237731</string>
+    <string name="filtru_toate_mag">Arăt toate magazinele</string>
+    <string name="filtru_ns_card">Arăt nonstop cu POS</string>
+    <string name="filtru_pos">Arăt doar cu POS</string>
+    <string name="filtru_piata">Arăt toate pieţele</string>
+    <string name="filtru_piata_ns">Nici un rezultat</string>
+    <string name="filtru_benz">Arăt toate benzinăriile</string>
+    <string name="filtru_benz_ns">Arăt toate benzinăriile și nonstopurile</string>
+    <string name="filtru_benz_pos">Arăt toate benzinăriile și POS</string>
+    <string name="filtru_benz_ns_pos">Arăt toate benzinăriile, nonstopurile și cu POS</string>
+    <string name="filtru_no_pos">Arăt toate fără POS</string>
+    <string name="filtru_piata_gas">Arăt toate pieţele și benzinăriile</string>
+    <string name="filtru_ns">Arăt toate nonstop</string>
+    <string name="filtru_none">Te rog să aplici un filtru</string>
+    <string name="title_waiting_location">Aștept locaţia</string>
+    <string name="text_waiting_location">Stai locului :)</string>
+    <string name="internet_down_title">Nu ai internet, prietene!</string>
+    <string name="internet_down">Am nevoie de internet. Il pornim?</string>
+    <string name="positive">Da</string>
+    <string name="negative">Nu</string>
+    <string name="gps_down">Am nevoie de GPS pentru localizare. Il pornim?</string>
+    <string name="title_loading_shops">Te rog așteaptă</string>
+    <string name="text_loading_shops">Incarc magazinele din zonă. Te rog sa ai rabdare.</string>
+    <string name="back_exit">Apasă inca o dată BACK pentru a ieși</string>
+    <string name="splash_te_servim">Astăzi te servim cu</string>
+    <string name="splash_magazine">magazine lângă tine</string>
+    <string name="loading_DM">Incarc datele despre magazin</string>
+    <string name="info_windows_touch">Touch pentru detalii</string>
+    <string name="chkToate">Toate</string>
+    <string name="chkGas">Benzinarie</string>
+    <string name="chkMarket">Piata</string>
+    <string name="chkNonstop">Nonstop</string>
+    <string name="chkPOS">Cu card</string>
+    <string name="btnArata">Arată</string>
+    <string name="btnNavigation">Navigare</string>
+    <string name="DMType">Tip:</string>
+    <string name="DMPos">Plata cu cardul:</string>
+    <string name="DMLV">Luni-Vineri:</string>
+    <string name="DMSaturday">Sâmbătă:</string>
+    <string name="DMSunday">Duminică:</string>
+    <string name="DMsepopuleaza">Incarcă...</string>
+    <string name="slider">Filtre</string>
+    <string name="gas">Benzinărie</string>
+    <string name="market">Piaţă</string>
+    <string name="no_shops_around_title">Nimic aici...</string>
+    <string name="no_shops_around">Imi pare rău, dar nu am gasit nici un magazin in zona ta</string>
+    <string name="no_gas_around">Imi pare rău, dar nu am gasit nici o benzinarie in zona ta</string>
+    <string name="no_market_around">Imi pare rău, dar nu am gasit nici o piata in zona ta</string>
+    <string name="no_nonstop_around">Imi pare rău, dar nu am gasit nici un magazin nonstop in zona ta</string>
+    <string name="no_POS_around">Imi pare rău, dar nu am gasit nici un magazin cu POS in zona ta</string>
+    <string name="add_me">Adaugă-mă!</string>
+    <string name="add_limit_title">Limita atinsa!</string>
+    <string name="add_limit_message">Ai ajuns la limita de adaugari pe ziua de azi.</string>
+
+    <!-- adauga magazin -->
+
+    <string name="add_navbar_text">Adauga magazin</string>
+    <string name="shop_name">Numele magazinului</string>
+    <string name="name_missing_title">Lipseste numele...</string>
+    <string name="name_missing">Te rog sa introduci numele magazinului</string>
+    <string name="type_missing_title">Tipul magazinului?</string>
+    <string name="type_missing">Alege tipul magazinului</string>
+    <string name="time_format_title_err">Orele nu sunt valide...</string>
+    <string name="time_format_err">Verifica te rog programul</string>
+    <string name="start_hint">ex: 09:00</string>
+    <string name="end_hint">ex: 22:00</string>
+    <string name="shop_desc">informatii suplimentare</string>
+    <string name="shop_add">Adaugă</string>
+    <string name="cancel_add_title">Renunţă</string>
+    <string name="cancel_add">Ești sigur că vrei să renunţi?</string>
+    <string name="added_title">Adaugat...</string>
+    <string name="added_message">Magazin adaugat in baza de date</string>
+
+</resources>

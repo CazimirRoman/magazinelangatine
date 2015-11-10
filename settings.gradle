@@ -1,0 +1,3 @@
+include ':facebookSDK'
+include ':library_rate'
+include ':magazinelangatine'

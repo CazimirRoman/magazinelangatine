@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/magazinelangatine1/library_rate/build/intermediates/bundles/debug/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="rta_dialog_cancel">Připomenout později</string>
+    <string name="rta_dialog_message">Pokud se Vám aplikace líbí, rádi bychom Vás poprosili o její ohodnocení. Nezabere to více než minutu. Děkujeme za Vaši podporu!</string>
+    <string name="rta_dialog_no">Ne, díky</string>
+    <string name="rta_dialog_ok">Ohodnotit nyní</string>
+    <string name="rta_dialog_title">Ohodnotit aplikaci</string>
+</resources>

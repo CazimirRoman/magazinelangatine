@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/background_light"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp" >
+
+        <TextView
+            android:id="@+id/tvPlease"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Please apply a filter" />
+    </RelativeLayout>
+
+    <CheckBox
+        android:id="@+id/chkToate"
+        android:layout_width="wrap_content"
+        android:checked="true"
+        android:layout_height="wrap_content"
+        android:text="@string/toate" />
+
+    <CheckBox
+        android:id="@+id/chkNonStop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/nonstop" />
+
+    <CheckBox
+        android:id="@+id/chkPOS"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="POS" />
+
+</LinearLayout>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/fchauveau/dev/workspace/android-betterpickers/library/src/main/res/values-cs/strings.xml -->
+    <eat-comment/>
+    <plurals name="daily">
+        <item quantity="one">Denně</item>
+        <item quantity="few">Každé <ns1:g id="number">%d</ns1:g> dny</item>
+        <item quantity="other">Každých <ns1:g id="number">%d</ns1:g> dnů</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="one">; jednou</item>
+        <item quantity="few">; <ns1:g id="number">%d</ns1:g> krát</item>
+        <item quantity="other">; <ns1:g id="number">%d</ns1:g> krát</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="one">Opakovat <ns1:g id="event_count">%d</ns1:g> událost</item>
+        <item quantity="few">Opakovat <ns1:g id="event_count">%d</ns1:g> události</item>
+        <item quantity="other">Opakovat <ns1:g id="event_count">%d</ns1:g> událostí</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Každý den</item>
+        <item quantity="few">Každý <ns1:g id="count">%d</ns1:g>. den</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Každý <ns1:g id="count">%d</ns1:g>. den</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Každý měsíc</item>
+        <item quantity="few">Každý <ns1:g id="count">%d</ns1:g>. měsíc</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Každý <ns1:g id="count">%d</ns1:g>. měsíc</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Každý týden</item>
+        <item quantity="few">Každý <ns1:g id="count">%d</ns1:g>. týden</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Každý <ns1:g id="count">%d</ns1:g>. týden</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Každý rok</item>
+        <item quantity="few">Každý <ns1:g id="count">%d</ns1:g>. rok</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Každý <ns1:g id="count">%d</ns1:g>. rok</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Týdně <ns1:g id="days_of_week">%2$s</ns1:g></item>
+        <item quantity="few">Každé <ns1:g id="days_of_week">%2$s</ns1:g> týdny v <ns1:g id="days_of_week">%2$s</ns1:g></item>
+        <item quantity="other">Každé <ns1:g id="number">%1$d</ns1:g> týdny v <ns1:g id="days_of_week">%2$s</ns1:g></item>
+    </plurals>
+    <string name="acessibility_recurrence_choose_end_date_description">změnit do</string>
+    <string name="day_c">DEN</string>
+    <string name="day_of_week_label_typeface">sans-serif</string>
+    <string name="day_picker_description">Výběr dnu v měsíci</string>
+    <string name="deleted_key">%1$s smazáno</string>
+    <string name="done_label">Hotovo</string>
+    <string name="endByDate">; do <ns1:g id="date">%s</ns1:g></string>
+    <string name="every_weekday">"Každý pracovní den (Mon\u2013Fri)"</string>
+    <string name="expiration_picker_seperator">/</string>
+    <string name="hint_time_zone_search">Napište název země</string>
+    <string name="hms_picker_hours_label">H</string>
+    <string name="hms_picker_minutes_label">M</string>
+    <string name="hms_picker_seconds_label">S</string>
+    <string name="hour_picker_description">Kruhový výběr hodiny</string>
+    <string name="hours_label">h</string>
+    <string name="hours_label_description">hodin</string>
+    <string name="item_is_selected">%1$s vybráno</string>
+    <string name="max_error">Vložte prosím číslo menší nebo rovno %1$d</string>
+    <string name="min_error">Vložte prosím číslo větší nebo rovno %1$d</string>
+    <string name="min_max_error">Vložte prosím číslo v rozmezí %1$d a %2$d</string>
+    <string name="minute_picker_description">Kruhový výběr minuty</string>
+    <string name="minutes_label">m</string>
+    <string name="minutes_label_description">minut</string>
+    <string name="month_c">MĚSÍC</string>
+    <string name="monthly">Měsíčně</string>
+    <string name="no_results_found">Nenalezeno</string>
+    <string name="number_delete">Smazat</string>
+    <string name="number_picker_minus_label">—</string>
+    <string name="number_picker_plus_minus">+/-</string>
+    <string name="number_picker_seperator">.</string>
+    <string name="palestine_display_name">Palestina</string>
+    <string name="picker_cancel">Zrušit</string>
+    <string name="picker_set">Potvrdit</string>
+    <string name="radial_numbers_typeface">sans-serif</string>
+    <string name="recurrence_end_continously">Navždy</string>
+    <string name="recurrence_end_count_label">Pouze několikrát</string>
+    <string name="recurrence_end_date">Do <ns1:g id="date">%s</ns1:g></string>
+    <string name="recurrence_end_date_label">Do data</string>
+    <string name="recurrence_month_pattern_by_day">stejný den každý měsíc</string>
+    <string name="sans_serif">sans-serif</string>
+    <string name="save_label">Hotovo</string>
+    <string name="searchview_description_clear">Vymazat</string>
+    <string name="seconds_label">s</string>
+    <string name="seconds_label_description">sekund</string>
+    <string name="select_day">Vyber měsíc a den</string>
+    <string name="select_hours">Vyberte hodinu</string>
+    <string name="select_minutes">Vyberte minutu</string>
+    <string name="select_year">Vyber rok</string>
+    <string name="switch_off">VYPNUTO</string>
+    <string name="switch_on">ZAPNUTO</string>
+    <string name="time_picker_00_label">:00</string>
+    <string name="time_picker_30_label">:30</string>
+    <string name="time_picker_ampm_label">--</string>
+    <string name="time_picker_time_seperator">:</string>
+    <string name="time_placeholder">--</string>
+    <string name="time_separator">:</string>
+    <string name="timer_delete">Smazat</string>
+    <string name="year_c">ROK</string>
+    <string name="year_picker_description">Seznam roků</string>
+    <string name="yearly_plain">Ročně</string>
+</resources>

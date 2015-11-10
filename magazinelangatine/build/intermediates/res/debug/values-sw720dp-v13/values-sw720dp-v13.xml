@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/magazinelangatine1/magazinelangatine/build/intermediates/exploded-aar/org.jraf/android-switch-backport/1.4.0/res/values-sw720dp-v13/values.xml -->
+    <eat-comment/>
+    <dimen name="preference_icon_minWidth">56dp</dimen>
+</resources>

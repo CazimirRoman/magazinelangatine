@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true"
+          android:drawable="@drawable/type_pressed" /> <!-- pressed -->
+    <item android:state_focused="true"
+          android:drawable="@drawable/type_pressed" /> <!-- focused -->
+    <item android:state_hovered="true"
+          android:drawable="@drawable/type_pressed" /> <!-- hovered -->
+    <item android:drawable="@drawable/type_normal" /> <!-- default -->
+</selector><!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/magazinelangatine1/magazinelangatine/src/main/res/drawable/type_selector.xml -->

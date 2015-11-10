@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/magazinelangatine1/library_rate/src/main/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="rta_dialog_cancel">Mai tarziu</string>
+    <string name="rta_dialog_message">Daca iti place aplicatia, te rog sa ne votezi pe Google Play. Iti multumim pentru feedback!</string>
+    <string name="rta_dialog_no">Nu, multumesc</string>
+    <string name="rta_dialog_ok">Voteaza acum</string>
+    <string name="rta_dialog_title">Voteaza aplicatia</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="slidingmenu_offset">120dp</dimen>
+    <dimen name="shadow_width">15dp</dimen>
+    
+    <!-- adauga screen -->
+    
+    <dimen name="static_tv">20dp</dimen>
+    
+    <!-- popup -->
+    
+    <dimen name="popup_title">20dp</dimen>
+    <dimen name="popup_message">16dp</dimen>
+
+</resources>

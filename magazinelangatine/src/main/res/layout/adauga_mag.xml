@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/rlNavBar"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/primary_blue">
+
+        <TextView
+            android:id="@+id/tvNavbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="@string/add_navbar_text"
+            android:textSize="23sp" />
+
+        <ImageButton
+            android:id="@+id/ibBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/back"
+            android:onClick="onBackPressed" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:id="@+id/svHolder"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/rlNavBar"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+
+        <RelativeLayout
+            android:id="@+id/rl_holder"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:focusableInTouchMode="true">
+
+            <EditText
+                android:id="@+id/etNumeMag"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:gravity="center_horizontal"
+                android:hint="@string/shop_name"
+                android:maxLength="23"
+                android:padding="20dp"
+                android:textColorHint="@color/app_gray" />
+
+            <RelativeLayout
+                android:id="@+id/TipMagPOS"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/etNumeMag">
+
+                <Spinner
+                    android:id="@+id/spTipMag"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:entries="@array/tipuri_mag" />
+
+                <LinearLayout
+                    android:id="@+id/ll_pos_ns"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:orientation="vertical">
+
+                    <CheckBox
+                        android:id="@+id/chkPOSda"
+                        android:layout_width="130dp"
+                        android:layout_height="wrap_content"
+                        android:text="POS?" />
+
+                    <CheckBox
+                        android:id="@+id/chkNSda"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Nonstop?" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/Program"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/TipMagPOS"
+                android:layout_marginTop="9dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tvLuniVineri"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:text="@string/DMLV"
+                    android:textSize="@dimen/static_tv" />
+
+                <LinearLayout
+                    android:id="@+id/LV"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/tvLuniVineri"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal">
+
+                    <EditText
+                        android:id="@+id/etLVStart"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:ems="10"
+                        android:hint="@string/start_hint"
+                        android:inputType="time" />
+
+                    <EditText
+                        android:id="@+id/etLVEnd"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:ems="10"
+                        android:hint="@string/end_hint"
+                        android:inputType="time" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/tvSambata"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/LV"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/DMSaturday"
+                    android:textSize="@dimen/static_tv" />
+
+                <LinearLayout
+                    android:id="@+id/Sambata"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/tvSambata"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal">
+
+                    <EditText
+                        android:id="@+id/etSStart"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:ems="10"
+                        android:hint="@string/start_hint"
+                        android:inputType="time" />
+
+                    <EditText
+                        android:id="@+id/etSEnd"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:ems="10"
+                        android:hint="@string/end_hint"
+                        android:inputType="time" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/tvDuminica"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/Sambata"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/DMSunday"
+                    android:textSize="@dimen/static_tv" />
+
+                <LinearLayout
+                    android:id="@+id/Duminica"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/tvDuminica"
+                    android:layout_marginTop="10dp">
+
+                    <EditText
+                        android:id="@+id/etDStart"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:ems="10"
+                        android:hint="@string/start_hint"
+                        android:inputType="time" />
+
+                    <EditText
+                        android:id="@+id/etDEnd"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:ems="10"
+                        android:hint="@string/end_hint"
+                        android:inputType="time" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <EditText
+                android:id="@+id/etDescriere"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/Program"
+                android:gravity="center_horizontal"
+                android:hint="@string/shop_desc"
+                android:inputType="textMultiLine"
+                android:padding="20dp"></EditText>
+
+            <Button
+                android:id="@+id/btnAdaugaMag"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/etDescriere"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="7dp"
+                android:background="@drawable/rounded_button"
+                android:text="@string/shop_add" />
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

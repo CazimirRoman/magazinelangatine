@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/tvLongAdauga"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="68dp"
+        android:text="Longitudine: " />
+
+    <TextView
+        android:id="@+id/tvLatAdauga"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/tvLongAdauga"
+        android:layout_alignParentLeft="true"
+        android:text="Latitudine: " />
+
+    <TextView
+        android:id="@+id/tvLat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/tvLatAdauga"
+        android:layout_alignBottom="@+id/tvLatAdauga"
+        android:layout_toRightOf="@+id/tvLatAdauga"
+        android:text="Latitudine: " />
+
+    <TextView
+        android:id="@+id/tvLong"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvLat"
+        android:layout_toRightOf="@+id/tvLongAdauga"
+        android:text="Longitudine" />
+
+    <EditText
+        android:id="@+id/etNumeMag"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:maxLength="23"
+        android:ems="10"
+        android:hint="nume magazin (nr. strazii + numele strazii)" />
+
+    <Button
+        android:id="@+id/llAscunde"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/tvLatAdauga"
+        android:layout_alignParentLeft="true"
+        android:text="Adauga magazinul" />
+
+    <EditText
+        android:id="@+id/etDescriere"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/llAscunde"
+        android:layout_alignParentLeft="true"
+        android:hint="program, produse, preturi, locatie"
+        android:inputType="textMultiLine" >
+    </EditText>
+
+    <TextView
+        android:id="@+id/tvLuniVineri"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/spTipMag"
+        android:text="Luni-Vineri" />
+
+    <Spinner
+        android:id="@+id/spLV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/tvLuniVineri"
+        android:layout_toRightOf="@+id/tvLat"
+         />
+
+    <TextView
+        android:id="@+id/tvSambata"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/spLV"
+        android:text="Sambata" />
+
+    <Spinner
+        android:id="@+id/spSambata"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/spLV"
+        android:layout_alignTop="@+id/tvSambata"
+         />
+
+    <TextView
+        android:id="@+id/tvDuminica"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/spSambata"
+        android:text="Duminica" />
+
+    <Spinner
+        android:id="@+id/spDuminica"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/spSambata"
+        android:layout_alignTop="@+id/tvDuminica"
+         />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/spTipMag"
+        android:layout_marginBottom="30dp"
+        android:layout_toRightOf="@+id/tvLat" >
+    </LinearLayout>
+
+    <Spinner
+        android:id="@+id/spTipMag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tvLong"
+        android:layout_below="@+id/etNumeMag"
+        android:entries="@array/tipuri_mag" />
+
+</RelativeLayout><!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/magazinelangatine1/magazinelangatine/src/main/res/layout/edit_mag.xml -->

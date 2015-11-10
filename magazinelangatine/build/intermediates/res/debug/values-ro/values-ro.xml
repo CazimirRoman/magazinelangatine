@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/magazinelangatine1/magazinelangatine/src/main/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string-array name="tipuri_mag">
+        <item>...</item>
+        <item>de_cartier</item>
+        <item>supermarket</item>
+        <item>hipermarket</item>
+        <item>piata</item>
+        <item>benzinarie</item>
+    </string-array>
+    <color name="bg_color">#ffffff</color>
+    <string name="DMLV">Luni-Vineri:</string>
+    <string name="DMPos">Plata cu cardul:</string>
+    <string name="DMSaturday">Sâmbătă:</string>
+    <string name="DMSunday">Duminică:</string>
+    <string name="DMType">Tip:</string>
+    <string name="DMsepopuleaza">Incarcă...</string>
+    <!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/magazinelangatine1/magazinelangatine/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navigați la ecranul de pornire"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigați în sus"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Mai multe opțiuni"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Terminat"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Afișați-le pe toate"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Alegeți o aplicaţie"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ștergeți interogarea"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Interogare de căutare"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Căutați"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Trimiteți interogarea"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Căutare vocală"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Trimiteți la"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Trimiteți la %s"</string>
+    <!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/magazinelangatine1/magazinelangatine/src/main/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="add_limit_message">Ai ajuns la limita de adaugari pe ziua de azi.</string>
+    <string name="add_limit_title">Limita atinsa!</string>
+    <string name="add_me">Adaugă-mă!</string>
+    <string name="add_navbar_text">Adauga magazin</string>
+    <string name="added_message">Magazin adaugat in baza de date</string>
+    <string name="added_title">Adaugat...</string>
+    <string name="app_id">1623197661237731</string>
+    <string name="app_name">Magazoo - Magazine lângă tine</string>
+    <string name="back_exit">Apasă inca o dată BACK pentru a ieși</string>
+    <string name="benzinarie">benzinarie</string>
+    <string name="btnArata">Arată</string>
+    <string name="btnNavigation">Navigare</string>
+    <string name="cancel_add">Ești sigur că vrei să renunţi?</string>
+    <string name="cancel_add_title">Renunţă</string>
+    <string name="chkGas">Benzinarie</string>
+    <string name="chkMarket">Piata</string>
+    <string name="chkNonstop">Nonstop</string>
+    <string name="chkPOS">Cu card</string>
+    <string name="chkToate">Toate</string>
+    <!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/magazinelangatine1/magazinelangatine/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ro/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="6428604800157361567" name="common_android_wear_notification_needs_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> necesită o actualizare a aplicației Android Wear."</string>
+    <string msgid="2453027084525739603" name="common_android_wear_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nu va rula decât dacă actualizați aplicația Android Wear."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Actualizați Android Wear"</string>
+    <string msgid="6534628256897874213" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> necesită unul sau mai multe servicii Google Play, care momentan nu sunt disponibile. Contactați dezvoltatorul pentru asistență."</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Activaţi Servicii Google Play"</string>
+    <string msgid="4896236883690196080" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nu va funcționa decât dacă activați serviciile Google Play."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Activaţi Servicii Google Play"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Solicitată de <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Obţineţi Servicii Google Play"</string>
+    <string msgid="8836325110837822534" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> nu va rula fără serviciile Google Play, care lipsesc de pe telefon."</string>
+    <string msgid="542176290824754127" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> nu va rula fără serviciile Google Play, care lipsesc de pe tabletă."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Descărcaţi Servicii Google Play"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"Contul menționat nu există pe acest dispozitiv. Alegeți alt cont."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Cont nevalid"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"O aplicație necesită activarea serviciilor Google Play."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Este necesară o conexiune de date pentru a vă conecta la serviciile Google Play."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Eroare de reţea"</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"O aplicație necesită o actualizare pentru serviciile Google Play."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Eroare a serviciilor Google Play"</string>
+    <string msgid="5194079840165204725" name="common_google_play_services_sign_in_failed_text">"Eroare la conectarea la contul specificat. Alegeți alt cont."</string>
+    <string msgid="8164948898147532159" name="common_google_play_services_sign_in_failed_title">"Conectarea nu a reușit"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Problemă necunoscută privind Servicii Google Play."</string>
+    <string msgid="7682982632307307938" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> se bazează pe serviciile Google Play, care nu sunt acceptate de dispozitiv. Contactați producătorul pentru asistență."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Servicii Google Play"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Actualizaţi"</string>
+    <string msgid="5709479369299147668" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nu va rula decât dacă actualizați serviciile Google Play."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Actualizaţi Servicii Google Play"</string>
+    <string msgid="2201289642219771610" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nu va rula fără serviciile Google Play, care momentan se actualizează."</string>
+    <string msgid="815008177440683245" name="common_google_play_services_updating_title">"Se actualizează serviciile Google Play"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Deschideți pe telefon"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"Conectați"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Conectați-vă cu Google"</string>
+    <!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/magazinelangatine1/magazinelangatine/src/main/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="de_cartier">de cartier</string>
+    <string name="end_hint">ex: 22:00</string>
+    <string name="filtru_benz">Arăt toate benzinăriile</string>
+    <string name="filtru_benz_ns">Arăt toate benzinăriile și nonstopurile</string>
+    <string name="filtru_benz_ns_pos">Arăt toate benzinăriile, nonstopurile și cu POS</string>
+    <string name="filtru_benz_pos">Arăt toate benzinăriile și POS</string>
+    <string name="filtru_no_pos">Arăt toate fără POS</string>
+    <string name="filtru_none">Te rog să aplici un filtru</string>
+    <string name="filtru_ns">Arăt toate nonstop</string>
+    <string name="filtru_ns_card">Arăt nonstop cu POS</string>
+    <string name="filtru_piata">Arăt toate pieţele</string>
+    <string name="filtru_piata_gas">Arăt toate pieţele și benzinăriile</string>
+    <string name="filtru_piata_ns">Nici un rezultat</string>
+    <string name="filtru_pos">Arăt doar cu POS</string>
+    <string name="filtru_toate_mag">Arăt toate magazinele</string>
+    <string name="gas">Benzinărie</string>
+    <string name="gps_down">Am nevoie de GPS pentru localizare. Il pornim?</string>
+    <string name="info_windows_touch">Touch pentru detalii</string>
+    <string name="internet_down">Am nevoie de internet. Il pornim?</string>
+    <string name="internet_down_title">Nu ai internet, prietene!</string>
+    <string name="loading_DM">Incarc datele despre magazin</string>
+    <string name="market">Piaţă</string>
+    <!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/magazinelangatine1/magazinelangatine/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/values-ro/values.xml -->
+    <eat-comment/>
+    <string msgid="8327680881775995150" name="mr_media_route_button_content_description">"Trimiteți"</string>
+    <string msgid="7553005460920830010" name="mr_media_route_chooser_searching">"Se caută dispozitive..."</string>
+    <string msgid="7106830097177242655" name="mr_media_route_chooser_title">"Conectați-vă la dispozitiv"</string>
+    <string msgid="109793632378378069" name="mr_media_route_controller_disconnect">"Deconectați-vă"</string>
+    <string msgid="8315773974194466049" name="mr_media_route_controller_pause">"Întrerupeți"</string>
+    <string msgid="5214423499524760404" name="mr_media_route_controller_play">"Redați"</string>
+    <string msgid="379358765881274425" name="mr_media_route_controller_settings_description">"Setări pentru traseu"</string>
+    <string msgid="5398645111664294430" name="mr_media_route_controller_stop">"Nu mai proiectați"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"Sistem"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Dispozitive"</string>
+    <!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/magazinelangatine1/magazinelangatine/src/main/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="name_missing">Te rog sa introduci numele magazinului</string>
+    <string name="name_missing_title">Lipseste numele...</string>
+    <string name="negative">Nu</string>
+    <string name="no_POS_around">Imi pare rău, dar nu am gasit nici un magazin cu POS in zona ta</string>
+    <string name="no_gas_around">Imi pare rău, dar nu am gasit nici o benzinarie in zona ta</string>
+    <string name="no_market_around">Imi pare rău, dar nu am gasit nici o piata in zona ta</string>
+    <string name="no_nonstop_around">Imi pare rău, dar nu am gasit nici un magazin nonstop in zona ta</string>
+    <string name="no_shops_around">Imi pare rău, dar nu am gasit nici un magazin in zona ta</string>
+    <string name="no_shops_around_title">Nimic aici...</string>
+    <string name="nonstop">nonstop</string>
+    <string name="piata">piata</string>
+    <string name="please_login">Te rog sa te loghezi ca sa postezi magazine</string>
+    <string name="positive">Da</string>
+    <string name="shop_add">Adaugă</string>
+    <string name="shop_desc">informatii suplimentare</string>
+    <string name="shop_name">Numele magazinului</string>
+    <string name="slider">Filtre</string>
+    <string name="splash_magazine">magazine lângă tine</string>
+    <string name="splash_te_servim">Astăzi te servim cu</string>
+    <string name="start_hint">ex: 09:00</string>
+    <string name="supermarket">supermarket</string>
+    <string name="text_loading_shops">Incarc magazinele din zonă. Te rog sa ai rabdare.</string>
+    <string name="text_waiting_location">Stai locului :)</string>
+    <string name="time_format_err">Verifica te rog programul</string>
+    <string name="time_format_title_err">Orele nu sunt valide...</string>
+    <string name="title_activity_gas_mag">GasMag</string>
+    <string name="title_activity_pagina_harta">PaginaHarta</string>
+    <string name="title_loading_shops">Te rog așteaptă</string>
+    <string name="title_waiting_location">Aștept locaţia</string>
+    <string name="toate">Toate</string>
+    <string name="type_missing">Alege tipul magazinului</string>
+    <string name="type_missing_title">Tipul magazinului?</string>
+    <!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/magazinelangatine1/magazinelangatine/src/main/res/values-ro/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        
+        
+    </style>
+    <!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/magazinelangatine1/magazinelangatine/src/main/res/values-ro/themes.xml -->
+    <eat-comment/>
+    <style name="MyAppTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <!-- Any customizations for your app running on pre-3.0 devices here -->
+    </style>
+    <!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/magazinelangatine1/magazinelangatine/src/main/res/values-ro/styles.xml -->
+    <eat-comment/>
+    <style name="filter_handle">
+    <item name="android:layout_width">fill_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:textColor">#3f4447</item>
+    <item name="android:gravity">center</item>
+    <item name="android:layout_margin">3dp</item>
+    <item name="android:textSize">20sp</item>
+    <item name="android:textStyle">normal</item>
+    <item name="android:shadowColor">#e5e5e5</item>
+    <item name="android:shadowDx">1</item>
+    <item name="android:shadowDy">1</item>
+    <item name="android:shadowRadius">1</item>
+  </style>
+</resources>
