@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <declare-styleable name="SlidingUpPanelLayout"><attr format="dimension" name="panelHeight"/><attr format="dimension" name="shadowHeight"/><attr format="dimension" name="paralaxOffset"/><attr format="color" name="fadeColor"/><attr format="integer" name="flingVelocity"/><attr format="reference" name="dragView"/><attr format="boolean" name="overlay"/><attr format="float" name="anchorPoint"/><attr format="enum" name="initialState"><enum name="expanded" value="0"/><enum name="collapsed" value="1"/><enum name="anchored" value="2"/><enum name="hidden" value="3"/></attr></declare-styleable>
-    <!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/magazinelangatine1/library_rate/build/intermediates/bundles/debug/res/values/values.xml -->
+    <!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/Magazoo/library_rate/build/intermediates/bundles/debug/res/values/values.xml -->
     <eat-comment/>
     <string name="rta_dialog_cancel">Later</string>
     <string name="rta_dialog_message">If you like us please leave us a vote on Google Play. Thank you for your feedback!</string>

@@ -46,4 +46,4 @@
         android:layout_toRightOf="@id/LV"
         android:text="New Button" />
 
-</RelativeLayout><!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/magazinelangatine1/magazinelangatine/src/main/res/layout/custom_info_window.xml -->
+</RelativeLayout><!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/Magazoo/magazinelangatine/src/main/res/layout/custom_info_window.xml -->

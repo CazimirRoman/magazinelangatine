@@ -2,214 +2,214 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
-        <dex dex="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\pre-dexed\debug\classes-1dcdb7e877695fa7b9a2cb9f3c0dfc6e508a4bc5.jar" />
-    </item>
-    <item
-        jar="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
-        <dex dex="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\pre-dexed\debug\classes-ae661a116fc92d851aa390ec7d681198b65ab575.jar" />
-    </item>
-    <item
-        jar="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
-        <dex dex="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\pre-dexed\debug\classes-17f62c335b27bde8e2b0bef24594decf2ab07825.jar" />
-    </item>
-    <item
-        jar="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
-        <dex dex="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\pre-dexed\debug\classes-512167e2318212aba4db788d7ab8f6a03dac35a8.jar" />
-    </item>
-    <item
-        jar="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\exploded-aar\magazinelangatine1\facebooksdk\unspecified\jars\libs\bolts-android-1.1.2.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="91c20388c9a45f62b5ed8fe0502bb76ff6251fc7">
-        <dex dex="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\pre-dexed\debug\bolts-android-1.1.2-52e31367ba6765fef98bb69c7f1ec6c351903aec.jar" />
-    </item>
-    <item
-        jar="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
-        <dex dex="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\pre-dexed\debug\classes-61891ed6aa48d40cd86dd79e0dbe87afa0017175.jar" />
-    </item>
-    <item
-        jar="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-78cc4852c80576694c6c441b53c72f086f9b819c.jar" />
-    </item>
-    <item
-        jar="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
-        <dex dex="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\pre-dexed\debug\classes-6eb407b776bc71904d5c0b9f45963642fd663b0f.jar" />
-    </item>
-    <item
-        jar="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
-        <dex dex="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\pre-dexed\debug\classes-29d68ce94ec4f87e5cd105e97fa2feee01c4dd37.jar" />
-    </item>
-    <item
-        jar="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\exploded-aar\org.jraf\android-switch-backport\1.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="5be6154ea591aedafe737f93b365818681a9e305">
-        <dex dex="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\pre-dexed\debug\classes-ce1da841915202e11c7aaf24a92211cfc369d7d0.jar" />
-    </item>
-    <item
-        jar="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a78183f30e769a98ab4820794f597763088d3065">
-        <dex dex="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\pre-dexed\debug\classes-afcea87ffaf6e14384d39681fb5adb5870b1d8a6.jar" />
-    </item>
-    <item
-        jar="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\libs\date4j.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1b0591bfd9b1e8e904b53bd3b2574ab5ae222de1">
-        <dex dex="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\pre-dexed\debug\date4j-5773ee969d5ebc7f091929fec7b4d96f4a24436f.jar" />
-    </item>
-    <item
-        jar="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
-        <dex dex="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\pre-dexed\debug\classes-58ee06449a0095e575482d961712c15f7a201a2e.jar" />
-    </item>
-    <item
-        jar="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\pre-dexed\debug\classes-c0bc9bc9ca297d6df86d59e4f4d117d9eb2158bf.jar" />
-    </item>
-    <item
-        jar="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
-        <dex dex="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\pre-dexed\debug\classes-1825e0e011c0b970e98f960767ddd6959b76db08.jar" />
-    </item>
-    <item
-        jar="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
-        <dex dex="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\pre-dexed\debug\classes-757d28c300a778ade936bdd1043ff581804cabf6.jar" />
-    </item>
-    <item
-        jar="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
-        <dex dex="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\pre-dexed\debug\classes-7ac1fba405632d3bfbc573455e76ba85593b3037.jar" />
-    </item>
-    <item
-        jar="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
-        <dex dex="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\pre-dexed\debug\classes-98cb7dc998f65f0cb2c1145d1feb8c6b5e155560.jar" />
-    </item>
-    <item
-        jar="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
-        <dex dex="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\pre-dexed\debug\classes-1151280f5540c366954b7fe64b53b3028a37e75f.jar" />
-    </item>
-    <item
-        jar="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
-        <dex dex="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\pre-dexed\debug\classes-03bee2afd44c863b9cba142ad4e06cf4f22614f2.jar" />
-    </item>
-    <item
-        jar="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
-        <dex dex="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\pre-dexed\debug\classes-eafd3f2397e436719b214c9441342376ec7aa14d.jar" />
-    </item>
-    <item
-        jar="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
-        <dex dex="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\pre-dexed\debug\classes-ff3ff7bfaa1e6c4f020e41f053a0dbdca10cf101.jar" />
-    </item>
-    <item
-        jar="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\pre-dexed\debug\classes-a9493f7d5e34df3776ffd6f7c838e8b2118a9157.jar" />
-    </item>
-    <item
-        jar="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\exploded-aar\magazinelangatine1\facebooksdk\unspecified\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="9ec4507b5b99eb15c7512387e5d16ef1498d9aa5">
-        <dex dex="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\pre-dexed\debug\classes-2d55e0d5e6ee79169d09cb7902efec9baa43ee87.jar" />
-    </item>
-    <item
-        jar="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="d405025c600055237c171a0bbabaa49d69696573">
-        <dex dex="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\pre-dexed\debug\classes-495b34417d848f68ed22a55d6cd6286ae9972437.jar" />
-    </item>
-    <item
-        jar="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
-        <dex dex="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\pre-dexed\debug\classes-a0c77d201e4cc23f69a6c3af10cea57321680feb.jar" />
-    </item>
-    <item
-        jar="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
-        <dex dex="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-9d13df09e5260de9418ecf052062775c6946ba31.jar" />
-    </item>
-    <item
-        jar="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
-        <dex dex="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\pre-dexed\debug\classes-5e29e6d9b441abaf3953b77e069be56e0868ad3a.jar" />
-    </item>
-    <item
-        jar="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jar="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
-        <dex dex="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\pre-dexed\debug\classes-7b277849f9b6c03b12a06132b629c8c820e6e880.jar" />
+        <dex dex="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\pre-dexed\debug\classes-bca2b07de06896937b437a06900ed72a0b7d17a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\pre-dexed\debug\classes-08f0e3782eba83cef19955b59ced439a7b022d7f.jar" />
+    </item>
+    <item
+        jar="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\pre-dexed\debug\classes-248bfebb5ed35b0f4b9d9849dc89a96d25fa8658.jar" />
+    </item>
+    <item
+        jar="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\pre-dexed\debug\classes-134194057f67358323797a9cce587741e03c1782.jar" />
+    </item>
+    <item
+        jar="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\pre-dexed\debug\classes-9eec693d95516b6f5f01169164360400487aa258.jar" />
+    </item>
+    <item
+        jar="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\pre-dexed\debug\classes-9211dc885d60c6d67bfe9c704b9c4f5dd905963d.jar" />
+    </item>
+    <item
+        jar="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\pre-dexed\debug\classes-a9ce3001da16e740167bda91f329578a62c6ca83.jar" />
+    </item>
+    <item
+        jar="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\pre-dexed\debug\classes-d4deb3cac9e11f7a17799daa4790064210ee3b47.jar" />
+    </item>
+    <item
+        jar="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\exploded-aar\Magazoo\facebookSDK\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="134c537fd80eaf57df5de567ccfde57ba030b2ff">
+        <dex dex="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\pre-dexed\debug\classes-a15d8f6dc1972a245d1fe3b4774ff659975f415d.jar" />
+    </item>
+    <item
+        jar="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\pre-dexed\debug\classes-045e3aacec4aecc828d2f3a3b14248ee36fd5f71.jar" />
+    </item>
+    <item
+        jar="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\pre-dexed\debug\classes-a777b1be33bff77d9351bb0723175b32a1869082.jar" />
+    </item>
+    <item
+        jar="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\libs\date4j.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1b0591bfd9b1e8e904b53bd3b2574ab5ae222de1">
+        <dex dex="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\pre-dexed\debug\date4j-5fb67d7c206653b0e31aab063916dc94f7a5d515.jar" />
+    </item>
+    <item
+        jar="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\pre-dexed\debug\classes-e89c8c7ece7011d8f2396987d1e96d542422dc9f.jar" />
+    </item>
+    <item
+        jar="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\pre-dexed\debug\classes-40a8bd00eb2f29fb6cb71bfe68a9a6d05f48484e.jar" />
+    </item>
+    <item
+        jar="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-bd647d3fbcc690e49e05f4e5e356dcba21238410.jar" />
+    </item>
+    <item
+        jar="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\pre-dexed\debug\classes-fdf35dc570154ce16ac84ceee6dc4caf4b35de7d.jar" />
+    </item>
+    <item
+        jar="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\pre-dexed\debug\classes-235140a3268c9496493eafab969d40da5c3ba067.jar" />
+    </item>
+    <item
+        jar="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\pre-dexed\debug\classes-062eaffb83a4715140e269b439ed4f32ac7ab00b.jar" />
+    </item>
+    <item
+        jar="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\pre-dexed\debug\classes-bac20b57f63fc38aae4087b7cc5d4a5d68e3b30c.jar" />
+    </item>
+    <item
+        jar="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\exploded-aar\Magazoo\facebookSDK\unspecified\jars\libs\bolts-android-1.1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="91c20388c9a45f62b5ed8fe0502bb76ff6251fc7">
+        <dex dex="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\pre-dexed\debug\bolts-android-1.1.2-5e002272e803c740b57766b90dc78924858fa9c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\exploded-aar\org.jraf\android-switch-backport\1.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5be6154ea591aedafe737f93b365818681a9e305">
+        <dex dex="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\pre-dexed\debug\classes-ac205a092abacfac4b0a5b5457059b431bf24577.jar" />
+    </item>
+    <item
+        jar="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\pre-dexed\debug\classes-ff23c575b2aa15842913c61bbae88b936f5c78b6.jar" />
     </item>
     <item
         jar="C:\Users\RomanI\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="C:\Users\RomanI\AndroidStudioProjects\magazinelangatine1\magazinelangatine\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-596a5fea73f1f98395acb41acb551beebf9362b8.jar" />
+        <dex dex="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-596a5fea73f1f98395acb41acb551beebf9362b8.jar" />
+    </item>
+    <item
+        jar="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\pre-dexed\debug\classes-1482d589ab20543b54a4526a534ea964e63559b4.jar" />
+    </item>
+    <item
+        jar="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\pre-dexed\debug\classes-317b52858f98e505869c3ffa3cbdd0a02b272b57.jar" />
+    </item>
+    <item
+        jar="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-785783b84997f422432da30417c01513c56080eb.jar" />
+    </item>
+    <item
+        jar="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\pre-dexed\debug\classes-1da4af23ce89508b28647f1b177fcc8afaafc763.jar" />
+    </item>
+    <item
+        jar="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\pre-dexed\debug\classes-0df062b7b714a4ef28b0686ec7357b47a1192877.jar" />
+    </item>
+    <item
+        jar="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\pre-dexed\debug\classes-ba2bbddd3c7ccac1c5102207ab65a9c604995e08.jar" />
+    </item>
+    <item
+        jar="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\RomanI\AndroidStudioProjects\Magazoo\magazinelangatine\build\intermediates\pre-dexed\debug\classes-26f7c0e433fc7ba9565c01adc8e8b5d885f3a3c8.jar" />
     </item>
 
 </items>

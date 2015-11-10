@@ -23,4 +23,4 @@
     android:focusable="false"
     android:clickable="false"
     android:button="@drawable/com_facebook_button_check" />
-<!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/magazinelangatine1/facebooksdk/src/main/res/layout/com_facebook_picker_checkbox.xml --><!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/magazinelangatine1/magazinelangatine/build/intermediates/exploded-aar/magazinelangatine1/facebooksdk/unspecified/res/layout/com_facebook_picker_checkbox.xml -->
+<!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/Magazoo/facebooksdk/src/main/res/layout/com_facebook_picker_checkbox.xml --><!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/Magazoo/magazinelangatine/build/intermediates/exploded-aar/Magazoo/facebookSDK/unspecified/res/layout/com_facebook_picker_checkbox.xml -->

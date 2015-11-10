@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/magazinelangatine1/library_rate/build/intermediates/bundles/debug/res/values-fr/values-fr.xml -->
+    <!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/Magazoo/library_rate/build/intermediates/bundles/debug/res/values-fr/values-fr.xml -->
     <eat-comment/>
     <string name="rta_dialog_cancel">Plus tard</string>
     <string name="rta_dialog_message">Si vous appréciez cette application, veuillez prendre un moment pour la noter. Cela ne prendra qu\'une minute. Merci de votre participation !</string>

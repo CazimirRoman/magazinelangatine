@@ -113,4 +113,4 @@
         android:layout_above="@id/map"
         android:background="@color/secondary_blue" />
 
-</RelativeLayout><!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/magazinelangatine1/magazinelangatine/src/main/res/layout/pagina_harta.xml -->
+</RelativeLayout><!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/Magazoo/magazinelangatine/src/main/res/layout/pagina_harta.xml -->

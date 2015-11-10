@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/magazinelangatine1/magazinelangatine/src/main/res/values-en/strings.xml -->
+    <!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/Magazoo/magazinelangatine/src/main/res/values-en/strings.xml -->
     <eat-comment/>
     <string-array name="tipuri_mag">
         <item>...</item>
@@ -91,7 +91,7 @@
     <string name="toate">All</string>
     <string name="type_missing">Please enter a shop type</string>
     <string name="type_missing_title">Store type missing...</string>
-    <!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/magazinelangatine1/magazinelangatine/src/main/res/values-en/styles.xml -->
+    <!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/Magazoo/magazinelangatine/src/main/res/values-en/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
         <!--
@@ -105,12 +105,12 @@
         
         
     </style>
-    <!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/magazinelangatine1/magazinelangatine/src/main/res/values-en/themes.xml -->
+    <!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/Magazoo/magazinelangatine/src/main/res/values-en/themes.xml -->
     <eat-comment/>
     <style name="MyAppTheme" parent="@android:style/Theme.Light.NoTitleBar">
         <!-- Any customizations for your app running on pre-3.0 devices here -->
     </style>
-    <!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/magazinelangatine1/magazinelangatine/src/main/res/values-en/styles.xml -->
+    <!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/Magazoo/magazinelangatine/src/main/res/values-en/styles.xml -->
     <eat-comment/>
     <style name="filter_handle">
     <item name="android:layout_width">fill_parent</item>

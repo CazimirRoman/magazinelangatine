@@ -61,4 +61,4 @@
             android:layout_marginRight="10dip"
             android:layout_toLeftOf="@id/com_facebook_picker_divider"/>
 </RelativeLayout>
-<!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/magazinelangatine1/facebooksdk/src/main/res/layout/com_facebook_picker_title_bar.xml --><!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/magazinelangatine1/magazinelangatine/build/intermediates/exploded-aar/magazinelangatine1/facebooksdk/unspecified/res/layout/com_facebook_picker_title_bar.xml -->
+<!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/Magazoo/facebooksdk/src/main/res/layout/com_facebook_picker_title_bar.xml --><!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/Magazoo/magazinelangatine/build/intermediates/exploded-aar/Magazoo/facebookSDK/unspecified/res/layout/com_facebook_picker_title_bar.xml -->

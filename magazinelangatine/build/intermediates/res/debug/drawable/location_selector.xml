@@ -7,4 +7,4 @@
     <item android:state_hovered="true"
           android:drawable="@drawable/location_pressed" /> <!-- hovered -->
     <item android:drawable="@drawable/location_normal" /> <!-- default -->
-</selector><!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/magazinelangatine1/magazinelangatine/src/main/res/drawable/location_selector.xml -->
+</selector><!-- From: file:/C:/Users/RomanI/AndroidStudioProjects/Magazoo/magazinelangatine/src/main/res/drawable/location_selector.xml -->

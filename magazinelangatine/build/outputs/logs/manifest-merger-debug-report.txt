@@ -28,7 +28,7 @@ ADDED from AndroidManifest.xml:9:5
 uses-sdk
 ADDED from AndroidManifest.xml:15:5
 MERGED from com.android.support:support-v4:22.2.0:20:5
-MERGED from magazinelangatine1:facebookSDK:unspecified:20:5
+MERGED from Magazoo:facebookSDK:unspecified:20:5
 MERGED from com.android.support:support-v4:22.2.0:20:5
 MERGED from com.android.support:appcompat-v7:22.2.0:20:5
 MERGED from com.android.support:support-v4:22.2.0:20:5
@@ -185,7 +185,7 @@ ADDED from AndroidManifest.xml:35:5
 application
 ADDED from AndroidManifest.xml:41:5
 MERGED from com.android.support:support-v4:22.2.0:22:5
-MERGED from magazinelangatine1:facebookSDK:unspecified:24:5
+MERGED from Magazoo:facebookSDK:unspecified:24:5
 MERGED from com.android.support:support-v4:22.2.0:22:5
 MERGED from com.android.support:appcompat-v7:22.2.0:22:5
 MERGED from com.android.support:support-v4:22.2.0:22:5
